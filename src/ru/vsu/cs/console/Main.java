@@ -1,4 +1,4 @@
-package ru.vsu.cs.common.console;
+package ru.vsu.cs.console;
 
 import ru.vsu.cs.common.Table;
 
